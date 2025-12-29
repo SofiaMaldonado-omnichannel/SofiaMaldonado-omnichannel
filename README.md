@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Sofía Maldonado! 👋
 
-<!--
-**SofiaMaldonado-omnichannel/SofiaMaldonado-omnichannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Growth & Omnichannel Strategist | No-Code Developer | AI & Tech Enthusiast
 
-Here are some ideas to get you started:
+I specialize in bridging the gap between advanced technology and human-centric business growth. Based in Ecuador, I help brands scale through omnichannel strategies and AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I do
+* **No-Code Development:** I build powerful, AI-driven applications using no-code tools to solve real-world problems rapidly.
+* **Omnichannel Strategy:** Connecting customer experiences across every touchpoint.
+* **AI for Growth:** Leveraging open-source models to democratize technology for businesses.
+
+### 🛠️ Projects & Impact
+* Developing AI applications focused on marketing automation and customer journey optimization.
+* Passionate about Open Source AI and its power to transform emerging markets like LATAM.
+
+### 📫 Connect with me:
+* [Website](http://www.sofiamaldonadooficial.com)
+* [LinkedIn](https://www.linkedin.com/in/sofia-maldonado-zumarraga)
+
+*"In love with AI and technology, committed to people."*

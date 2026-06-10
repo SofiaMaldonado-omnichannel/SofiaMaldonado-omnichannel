@@ -12,8 +12,8 @@ I specialize in bridging the gap between advanced technology and human-centric b
 * **AI for Growth:** Leveraging open-source models to democratize technology for businesses.
 
 ### 🛠️ Projects & Impact
-* Developing AI applications focused on marketing automation and customer journey optimization.
-* Passionate about Open Source AI and its power to transform emerging markets like LATAM.
+* **Abrazio:** An AI powered mental health platform built from scratch to production. I led the product strategy and execution.
+* **Olla Club:** A global web application and community for female entrepreneurs powered by AI, born out of a real human need during the pandemic to fight isolation through cooking.
 
 ### 📫 Connect with me:
 * [Website](http://www.sofiamaldonadooficial.com)

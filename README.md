@@ -1,15 +1,15 @@
 ## Hi, I'm Sofía Maldonado! 👋
 
-### Growth & Omnichannel Strategist | No-Code Developer | AI & Tech Enthusiast
+### Product Manager | AI Builder | Tech Enthusiast
 
-I specialize in bridging the gap between advanced technology and human-centric business growth. Based in Ecuador, I help brands scale through omnichannel strategies and AI integration.
+I specialize in bridging the gap between advanced technology and human connection. Based in Ecuador, I build real software, ship fast, and scale platforms using AI and modern development tools. I do not just manage backlogs or move Jira tickets, I roll up my sleeves and build.
 
 ---
 
 ### 🚀 What I do
-* **No-Code Development:** I build powerful, AI-driven applications using no-code tools to solve real-world problems rapidly.
-* **Omnichannel Strategy:** Connecting customer experiences across every touchpoint.
-* **AI for Growth:** Leveraging open-source models to democratize technology for businesses.
+* **Product Management:** Leading cross functional squads from discovery to delivery. My focus is always on real business metrics, user adoption, and scaling products efficiently.
+* **AI & No Code Development:** Building powerful, intelligent applications rapidly to solve real world problems. My GitHub activity graph with thousands of contributions this past year is proof of my daily execution.
+* **Community & Growth:** Creating digital spaces that solve genuine human needs, turning raw user feedback into features that people love.
 
 ### 🛠️ Projects & Impact
 * **Abrazio:** An AI powered mental health platform built from scratch to production. I led the product strategy and execution.
